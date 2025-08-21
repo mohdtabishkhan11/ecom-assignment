@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Jordan",
+    "price": 16999,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5b7b72af-953a-4d97-9a0b-1306339b9f32/air-force-1-07-lv8-shoes-cfp5ms.png"
+  },
+  {
+    "id": 2,
+    "name": "Nike Air",
+    "price": 9999,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c00d92bc-b95b-498a-9a7e-0a35863b8a4e/air-max-1-shoes-9JTw1z.png"
+  },
+  {
+    "id": 3,
+    "name": "Nike Air Max",
+    "price": 14999,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/57c2d9b3-bd49-4ea5-90b4-7a5e7bbf87a0/air-max-1-shoes-PZjm4T.png"
+  },
+  {
+    "id": 4,
+    "name": "Nike Force",
+    "price": 22999,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4f37fca8-6bce-43e7-ad07-f57ae3c13142/air-force-1-07-shoes-WrLlWX.png"
+  },
+  {
+    "id": 5,
+    "name": "Nike Jordan II",
+    "price": 18999,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/94d5bb36-7ca0-40a2-b429-b6026e2601a1/air-max-90-shoes-98F148.png"
+  },
+  {
+    "id": 6,
+    "name": "Nike Air Max premium",
+    "price": 15999,
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/22cce236-9223-4916-abd8-ad7267d9f4ac/air-force-1-07-lv8-shoes-g2c8Rd.png"
+  },
+  {
+    "id": 7,
+    "name": "Nike Jordan Stadium",
+    "price": 32999,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4128c7df-5fa0-4f7d-84e0-0a7337ebcc07/air-max-ishod-shoes-pJPHs6.png"
+  },
+  {
+    "id": 8,
+    "name": "Nike Invincible 3",
+    "price": 13999,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9a6be3ef-b39e-47f4-92c7-47c874ee079f/invincible-3-road-running-shoes-KZFTMC.png"
+  }
+]
